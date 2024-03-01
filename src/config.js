@@ -1,1 +1,1 @@
-console.log('fajlli config.js versioni 2')
+console.log('fajlli config.js versioni 3')
