@@ -1,0 +1,1 @@
+console.log('fajlli index.js versioni 1')
